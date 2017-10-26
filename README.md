@@ -45,7 +45,7 @@ Note that a demo is located at [https://github.com/PerfectExamples/Perfect-Repea
 
 ## Compatibility with Swift
 
-The master branch of this project currently compiles with **Xcode 9** or the **Swift 4** toolchain on Ubuntu.
+The master branch of this project currently compiles with **Xcode 9** or the **Swift 4** toolchain on Ubuntu, and is compatible with both Perfect 2.x and 3.x
 
 ## Building
 
